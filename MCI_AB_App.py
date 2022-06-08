@@ -22,7 +22,7 @@ st.set_page_config(layout="wide")
 # Title
 image = Image.open('logo.jpg')
 st.image(image, width = 500)
-st.title('Amyloid Risk Scores for MCI Individuals')
+st.title('UNDER CONSTRUCTION - Amyloid Risk Scores for MCI Individuals')
 st.markdown("""
 **Description:** Maximum score of 100 points.
 """)
